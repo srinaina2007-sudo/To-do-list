@@ -1,0 +1,5 @@
+{
+  "name": "TaskMaster",
+  "description": "A smart to-do list application with AI-generated subtasks, progress tracking, and deadline reminders.",
+  "requestFramePermissions": ["notifications"]
+}
